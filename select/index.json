@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "TOGE TOGE",
+  "base_artist": "MON7A",
+  "createdAt": "2026-02-07T15:19:45.893100Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Toge Toge Sadistic (5nin Version)",
+      "artist": "Enormita",
+      "has_synced": true,
+      "path": "select/01_Toge_Toge_Sadistic_(5nin_Version)_Enormita.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Toge Toge Sadistic",
+      "artist": "Enormita",
+      "has_synced": false,
+      "path": "select/02_Toge_Toge_Sadistic_Enormita.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOGE TOGE",
+      "artist": "MON7A",
+      "has_synced": false,
+      "path": "select/pl_01_TOGE_TOGE_MON7A.txt"
+    }
+  ]
+}
